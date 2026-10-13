@@ -235,7 +235,8 @@ The resulting recommendations connect customer behavior to actionable product in
 ---
 
 ## Author
-Mihir  Mishra 
+**Mihir  Mishra**
+
 [Linkedin](https://www.linkedin.com/in/mihirmishra74638ghy)
 [Email](mihirmishra006@gmail.com)
 
