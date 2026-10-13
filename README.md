@@ -238,7 +238,6 @@ The resulting recommendations connect customer behavior to actionable product in
 Mihir  Mishra 
 [Linkedin](https://www.linkedin.com/in/mihirmishra74638ghy)
 [Email](mihirmishra006@gmail.com)
-**Product Analytics & Data Portfolio Project**
 
 **Skills Demonstrated:** Data Cleaning · Cohort Retention Analysis · RFM Segmentation · SQL (CTEs, Window Functions) · Python · Power BI · RICE Framework Prioritization
 
